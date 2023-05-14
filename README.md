@@ -1,1 +1,1 @@
-# e-Commerce_Modario
+# Responsive Fashion E-commerce Website Template with HTML, CSS & JavaScript
